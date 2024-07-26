@@ -258,6 +258,7 @@ footer {
 @media (max-width: 576px) {
     h1 {
         padding-top: 190px;
+        margin-bottom: 50px;
     }
     .introduction {
         margin-top: 0;

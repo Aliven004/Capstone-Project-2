@@ -256,6 +256,12 @@ footer {
     }
 }
 @media (max-width: 576px) {
+    h1 {
+        padding-top: 190px;
+    }
+    .introduction {
+        margin-top: 0;
+    }
     .upper-child {
         object-fit: fill;
         height: auto;
